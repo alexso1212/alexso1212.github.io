@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://alexso1212.github.io/alex-hello-intro'),
+  metadataBase: new URL('https://alexso1212.github.io'),
   title: '认识一下 Alex',
   description: '一个认真、轻松的自我介绍。',
   openGraph: {
